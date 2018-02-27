@@ -22,6 +22,7 @@ console.log ("tipo de datos de x es : "+ typeof x);
 let boolValue = true;
 
 console.log ("tipo de datos de boolValue es : "+ typeof boolValue);
+
 let variableIndefinida;
 
 console.log ("tipo de datos de variableIndefinida es : "+ typeof variableIndefinida);
