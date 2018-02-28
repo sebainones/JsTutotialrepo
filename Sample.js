@@ -26,3 +26,14 @@ console.log ("tipo de datos de boolValue es : "+ typeof boolValue);
 let variableIndefinida;
 
 console.log ("tipo de datos de variableIndefinida es : "+ typeof variableIndefinida);
+
+let notNumber = isNaN(boolValue);
+
+console.log(notNumber);
+
+console.log(y);
+notNumber = isNaN(y);
+console.log(notNumber);
+
+notNumber = isNaN('Hola');
+console.log(notNumber);
